@@ -7,7 +7,7 @@ const HeaderCartButton = () => {
       <span>
         <CartIcon className={classes.icon} />
       </span>
-      <span>Votre carte</span>
+      <span>Cart</span>
       <span className={classes.badge}>3</span>
     </button>
   )
